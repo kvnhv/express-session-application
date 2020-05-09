@@ -11,7 +11,7 @@ To start:
 $ node .
 ```
 
-To Access the application
+To Access the application:
 
 ```sh
 http://localhost:3000/

@@ -22,7 +22,8 @@ http://localhost:3000/
 For Live demo [click here](https://express-session-application.herokuapp.com/)
 
 ##### Credentials
-```username : admin
+```
+username : admin
 password : admin
 ```
 ### Session Storages

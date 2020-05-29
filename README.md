@@ -24,7 +24,6 @@ For Live demo [click here](https://express-session-application.herokuapp.com/)
 ##### Credentials
 ```username : admin
 password : admin
-
 ```
 ### Session Storages
 
